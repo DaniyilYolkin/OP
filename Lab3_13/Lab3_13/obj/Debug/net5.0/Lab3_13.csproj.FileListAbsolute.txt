@@ -1,0 +1,15 @@
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/bin/Debug/net5.0/Lab3_13.deps.json
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/bin/Debug/net5.0/Lab3_13.runtimeconfig.json
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/bin/Debug/net5.0/Lab3_13.runtimeconfig.dev.json
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/bin/Debug/net5.0/Lab3_13.dll
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/bin/Debug/net5.0/ref/Lab3_13.dll
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/bin/Debug/net5.0/Lab3_13.pdb
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/obj/Debug/net5.0/Lab3_13.csproj.AssemblyReference.cache
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/obj/Debug/net5.0/Lab3_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/obj/Debug/net5.0/Lab3_13.AssemblyInfoInputs.cache
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/obj/Debug/net5.0/Lab3_13.AssemblyInfo.cs
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/obj/Debug/net5.0/Lab3_13.csproj.CoreCompileInputs.cache
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/obj/Debug/net5.0/Lab3_13.dll
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/obj/Debug/net5.0/ref/Lab3_13.dll
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/obj/Debug/net5.0/Lab3_13.pdb
+/Users/daniyilyolkin/Projects/Lab3_13/Lab3_13/obj/Debug/net5.0/Lab3_13.genruntimeconfig.cache
