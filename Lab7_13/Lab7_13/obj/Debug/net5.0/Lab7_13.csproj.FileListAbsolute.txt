@@ -1,0 +1,15 @@
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/obj/Debug/net5.0/Lab7_13.csproj.AssemblyReference.cache
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/obj/Debug/net5.0/Lab7_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/obj/Debug/net5.0/Lab7_13.AssemblyInfoInputs.cache
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/obj/Debug/net5.0/Lab7_13.AssemblyInfo.cs
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/obj/Debug/net5.0/Lab7_13.csproj.CoreCompileInputs.cache
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/bin/Debug/net5.0/Lab7_13.deps.json
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/bin/Debug/net5.0/Lab7_13.runtimeconfig.json
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/bin/Debug/net5.0/Lab7_13.runtimeconfig.dev.json
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/bin/Debug/net5.0/Lab7_13.dll
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/bin/Debug/net5.0/ref/Lab7_13.dll
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/bin/Debug/net5.0/Lab7_13.pdb
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/obj/Debug/net5.0/Lab7_13.dll
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/obj/Debug/net5.0/ref/Lab7_13.dll
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/obj/Debug/net5.0/Lab7_13.pdb
+/Users/daniyilyolkin/Documents/KPI/OP/Lab7_13/Lab7_13/obj/Debug/net5.0/Lab7_13.genruntimeconfig.cache
