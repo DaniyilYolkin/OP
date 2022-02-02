@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net5.0": []
   },
   "packageFolders": {
     "/Users/daniyilyolkin/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniyilyolkin/Documents/KPI/OP/Lab1_13/Lab1_13/Lab1_13.csproj",
+      "projectUniqueName": "/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab1_13/Lab1_13/Lab1_13.csproj",
       "projectName": "Lab1_13",
-      "projectPath": "/Users/daniyilyolkin/Documents/KPI/OP/Lab1_13/Lab1_13/Lab1_13.csproj",
+      "projectPath": "/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab1_13/Lab1_13/Lab1_13.csproj",
       "packagesPath": "/Users/daniyilyolkin/.nuget/packages/",
-      "outputPath": "/Users/daniyilyolkin/Documents/KPI/OP/Lab1_13/Lab1_13/obj/",
+      "outputPath": "/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab1_13/Lab1_13/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daniyilyolkin/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
