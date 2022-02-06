@@ -68,7 +68,7 @@ namespace Lab1_13
         static void WriteTextInInput(FileInfo input)
         {
             StreamWriter sr = input.AppendText();
-            displayMessage();
+            DisplayMessage();
             string text = Console.ReadLine();
             while (text != "")
             {
