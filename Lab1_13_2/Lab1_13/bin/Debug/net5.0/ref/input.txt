@@ -1,4 +1,0 @@
-Hello, World. My name is Daniel&
-I am 18 years old.
-I love programming.
-Have a nice day.
