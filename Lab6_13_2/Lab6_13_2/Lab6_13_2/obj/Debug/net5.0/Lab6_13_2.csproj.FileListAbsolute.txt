@@ -1,0 +1,15 @@
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/bin/Debug/net5.0/Lab6_13_2.deps.json
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/bin/Debug/net5.0/Lab6_13_2.runtimeconfig.json
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/bin/Debug/net5.0/Lab6_13_2.runtimeconfig.dev.json
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/bin/Debug/net5.0/Lab6_13_2.dll
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/bin/Debug/net5.0/ref/Lab6_13_2.dll
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/bin/Debug/net5.0/Lab6_13_2.pdb
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/obj/Debug/net5.0/Lab6_13_2.csproj.AssemblyReference.cache
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/obj/Debug/net5.0/Lab6_13_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/obj/Debug/net5.0/Lab6_13_2.AssemblyInfoInputs.cache
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/obj/Debug/net5.0/Lab6_13_2.AssemblyInfo.cs
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/obj/Debug/net5.0/Lab6_13_2.csproj.CoreCompileInputs.cache
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/obj/Debug/net5.0/Lab6_13_2.dll
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/obj/Debug/net5.0/ref/Lab6_13_2.dll
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/obj/Debug/net5.0/Lab6_13_2.pdb
+/Users/daniyilyolkin/Documents/KPI/OP/2 Semester/Lab6_13_2/Lab6_13_2/Lab6_13_2/obj/Debug/net5.0/Lab6_13_2.genruntimeconfig.cache
